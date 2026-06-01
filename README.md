@@ -1,6 +1,7 @@
 # ANSYS MCP Server
 
 ANSYS MCP Server 是一个基于 Model Context Protocol (MCP) 的服务器，用于驱动 ANSYS 系列仿真软件，包括 Fluent、Mechanical 和 Geometry。
+# 目前仅支持v242（即2024r2）及其后续版本
 
 ## 功能特性
 
