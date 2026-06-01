@@ -16,7 +16,7 @@ ANSYS MCP Server 是一个基于 Model Context Protocol (MCP) 的服务器，用
 - 执行 TUI 命令
 - 加载和管理 UDF
 
-### Mechanical (结构分析)
+### Mechanical (网格划分)
 - 启动/连接 Mechanical（支持连接已运行的实例）
 - 导入几何文件
 - 分配材料
