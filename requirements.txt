@@ -1,0 +1,4 @@
+mcp>=1.0.0
+ansys-fluent-core>=0.20.0
+ansys-mechanical-core>=0.10.0
+ansys-geometry-core>=0.15.0
