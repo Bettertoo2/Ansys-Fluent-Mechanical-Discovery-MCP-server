@@ -1,4 +1,4 @@
-# 已废除
+# 已废除-->请移步至https://github.com/Bettertoo2/ansys-mcp-server
 
 # ANSYS MCP Server
 
